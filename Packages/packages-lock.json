@@ -225,14 +225,14 @@
       },
       "url": "https://packages.unity.com"
     },
-    "cz.leosreahcek.vr_dashboard_logger": {
+    "cz.leosrehacek.vr_dashboard_logger": {
       "version": "https://github.com/rehacekleos/vr_dashboard_logger.git",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       },
-      "hash": "55b527930b90d9cb549e1838f70efce30771149f"
+      "hash": "7d9bd4fe146322e038064b20230465699cff3ba2"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
