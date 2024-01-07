@@ -8,7 +8,7 @@ public class Startup : MonoBehaviour
     
     void Start()
     {
-        var vrLogger = gameObject.AddComponent<VrLogger>();
+        var vrLogger = (VrLogger)VrLogger.Instance;
         vrLogger.GetVrData(HandleVrData);
     }
 
