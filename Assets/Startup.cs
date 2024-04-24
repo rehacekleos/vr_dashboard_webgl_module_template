@@ -1,6 +1,7 @@
-using Editor;
-using Editor.Classes;
+
 using UnityEngine;
+using VrDashboardLogger.Editor;
+using VrDashboardLogger.Editor.Classes;
 
 public class Startup : MonoBehaviour
 {
